@@ -1,0 +1,24 @@
+.cm-theme-dracula {
+  --cm-background: #282A36;
+  --cm-foreground: #F8F8F2;
+  --cm-selection: #44475A;
+  --cm-cursor: #F8F8F2;
+  --cm-dropdown-background: #282A36;
+  --cm-dropdown-border: #191A21;
+  --cm-active-line: #44475A;
+  --cm-matching-bracket: #44475A;
+  --cm-keyword: #FF79C6;
+  --cm-storage: #FF79C6;
+  --cm-variable: #F8F8F2;
+  --cm-parameter: #F8F8F2;
+  --cm-function: #8BE9FD;
+  --cm-string: #F1FA8C;
+  --cm-constant: #BD93F9;
+  --cm-type: #8BE9FD;
+  --cm-class: #8BE9FD;
+  --cm-number: #BD93F9;
+  --cm-comment: #6272A4;
+  --cm-heading: #BD93F9;
+  --cm-invalid: #FF5555;
+  --cm-regexp: #F1FA8C;
+}

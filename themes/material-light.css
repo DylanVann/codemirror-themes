@@ -1,0 +1,24 @@
+.cm-theme-material-light {
+  --cm-background: #FAFAFA;
+  --cm-foreground: #90A4AE;
+  --cm-selection: #80CBC440;
+  --cm-cursor: #272727;
+  --cm-dropdown-background: #FAFAFA;
+  --cm-dropdown-border: #00000010;
+  --cm-active-line: #CCD7DA50;
+  --cm-matching-bracket: #FAFAFA;
+  --cm-keyword: #39ADB5;
+  --cm-storage: #39ADB5;
+  --cm-variable: #90A4AE;
+  --cm-parameter: #90A4AE;
+  --cm-function: #6182B8;
+  --cm-string: #91B859;
+  --cm-constant: #39ADB5;
+  --cm-type: #E2931D;
+  --cm-class: #E2931D;
+  --cm-number: #F76D47;
+  --cm-comment: #90A4AE;
+  --cm-heading: #39ADB5;
+  --cm-invalid: #E5393570;
+  --cm-regexp: #91B859;
+}

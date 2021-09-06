@@ -1,5 +1,5 @@
 {
-  "name": "@ddietr/codemirror-themes",
+  "name": "@dylanvann/codemirror-themes",
   "version": "1.0.7",
   "license": "MIT",
   "description": "",
@@ -11,16 +11,15 @@
   },
   "type": "module",
   "exports": {
-    "./theme/*": "./dist/theme/*.js"
+    "./themes/*": "./dist/themes/*"
   },
   "sideEffects": false,
   "scripts": {
-    "prepare": "rollup -c"
+    "build": "yarn build:tsc && yarn build:css",
+    "build:tsc": "tsc",
+    "build:css": "cp themes/*.css dist/themes"
   },
   "devDependencies": {
-    "@rollup/plugin-typescript": "^8.2.5",
-    "rollup": "^2.56.2",
-    "tslib": "^2.3.1",
     "typescript": "^4.3.5"
   },
   "dependencies": {

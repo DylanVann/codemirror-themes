@@ -1,0 +1,24 @@
+.cm-theme-{{.ExportPrefix}} {
+  --cm-background: {{.Background.Color}};
+  --cm-foreground: {{.Foreground.Color}};
+  --cm-selection: {{.Selection.Color}};
+  --cm-cursor: {{.Cursor.Color}};
+  --cm-dropdown-background: {{.DropdownBackground.Color}};
+  --cm-dropdown-border: {{.DropdownBorder.Color}};
+  --cm-active-line: {{.ActiveLine.Color}};
+  --cm-matching-bracket: {{.MatchingBracket.Color}};
+  --cm-keyword: {{.Keyword.Color}};
+  --cm-storage: {{.Storage.Color}};
+  --cm-variable: {{.Variable.Color}};
+  --cm-parameter: {{.Parameter.Color}};
+  --cm-function: {{.Function.Color}};
+  --cm-string: {{.String.Color}};
+  --cm-constant: {{.Constant.Color}};
+  --cm-type: {{.Type.Color}};
+  --cm-class: {{.Class.Color}};
+  --cm-number: {{.Number.Color}};
+  --cm-comment: {{.Comment.Color}};
+  --cm-heading: {{.Heading.Color}};
+  --cm-invalid: {{.Invalid.Color}};
+  --cm-regexp: {{.Regexp.Color}};
+}

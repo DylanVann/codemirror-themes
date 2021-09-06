@@ -1,0 +1,24 @@
+.cm-theme-solarized-light {
+  --cm-background: #fdf6e3;
+  --cm-foreground: #586e75;
+  --cm-selection: #eee8d5;
+  --cm-cursor: #657b83;
+  --cm-dropdown-background: #fdf6e3;
+  --cm-dropdown-border: #d3af86;
+  --cm-active-line: #eee8d5;
+  --cm-matching-bracket: #eee8d5;
+  --cm-keyword: #859900;
+  --cm-storage: #073642;
+  --cm-variable: #657b83;
+  --cm-parameter: #657b83;
+  --cm-function: #268BD2;
+  --cm-string: #2AA198;
+  --cm-constant: #CB4B16;
+  --cm-type: #268BD2;
+  --cm-class: #268BD2;
+  --cm-number: #D33682;
+  --cm-comment: #93A1A1;
+  --cm-heading: #268BD2;
+  --cm-invalid: #586e75;
+  --cm-regexp: #D30102;
+}

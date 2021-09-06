@@ -5,9 +5,9 @@
     "strict": true,
     "declaration": true,
     "declarationMap": true,
-    "outDir": "./dist/theme",
+    "outDir": "./dist/themes",
     "moduleResolution": "node",
-    "rootDir": "./theme"
+    "rootDir": "themes"
   },
-  "include": ["./theme"]
+  "include": ["themes"]
 }

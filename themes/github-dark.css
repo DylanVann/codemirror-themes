@@ -1,0 +1,24 @@
+.cm-theme-github-dark {
+  --cm-background: #24292e;
+  --cm-foreground: #d1d5da;
+  --cm-selection: #3392FF44;
+  --cm-cursor: #c8e1ff;
+  --cm-dropdown-background: #24292e;
+  --cm-dropdown-border: #1b1f23;
+  --cm-active-line: #2b3036;
+  --cm-matching-bracket: #17E5E650;
+  --cm-keyword: #f97583;
+  --cm-storage: #f97583;
+  --cm-variable: #d1d5da;
+  --cm-parameter: #e1e4e8;
+  --cm-function: #79b8ff;
+  --cm-string: #9ecbff;
+  --cm-constant: #79b8ff;
+  --cm-type: #79b8ff;
+  --cm-class: #b392f0;
+  --cm-number: #79b8ff;
+  --cm-comment: #6a737d;
+  --cm-heading: #79b8ff;
+  --cm-invalid: #f97583;
+  --cm-regexp: #9ecbff;
+}
